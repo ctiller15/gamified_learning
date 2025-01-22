@@ -4,7 +4,7 @@ A dump of all known gamified learning resources
 ## Table of Contents
 
 ### Programming/Computer Science
-#### Curricula
+#### Courses and Learning Paths
   - [FreeCodeCamp](https://www.freecodecamp.org/) - Online Programming Curriculum w/ Various certifications
   - [Boot.dev](https://www.boot.dev/) - Backend Programming Learning Path
   - [CodeSignal](https://learn.codesignal.com/course-paths/) - Various paths for different programming skills
@@ -13,6 +13,7 @@ A dump of all known gamified learning resources
   - [CodeCademy](https://www.codecademy.com/) - Learn Programming
   - [CodeCombat](https://codecombat.com/) - Learn to code through play
   - [CodeCrafters](https://codecrafters.io/) - Advanced Programming challenges
+  - [HyperSkill](https://hyperskill.org/) - Learn to program various languages
 
 #### Programming Challenges
   - [Codewars](https://www.codewars.com/) - Programming Challenges
@@ -27,6 +28,7 @@ A dump of all known gamified learning resources
   - [Checkio](https://js.checkio.org/) - A text-based javascript programming game
   - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) - Learn Ruby to help your warrior climb a tall tower
   - [Robocode](https://robocode.sourceforge.io/) - Develop a robot battle tank to battle against other tanks
+  - [HackAttic](https://hackattic.com/) - Hard, no-nonsense programming challenges
 
 #### Specialized Skills
 
