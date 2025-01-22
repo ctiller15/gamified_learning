@@ -85,6 +85,9 @@ A dump of all known gamified learning resources
 - [Datawars](https://www.datawars.io) - Practice Data Science with real life projects
 - [DataQuest](https://www.dataquest.io/) - Data Science learning paths
 
+##### DevOps
+- [Kodekloud](https://kodekloud.com/) - Devops learning paths
+
 ### Language
 - [Duolingo](https://www.duolingo.com/) - General Language Learning
 
