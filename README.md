@@ -15,6 +15,7 @@ A dump of all known gamified learning resources
   - [CodeCrafters](https://codecrafters.io/) - Advanced Programming challenges
   - [HyperSkill](https://hyperskill.org/) - Learn to program various languages
   - [CodeChef](https://www.codechef.com/) - Learn to code from scratch with practice-oriented courses
+  - [Treehouse](https://teamtreehouse.com/) - Learn to code through various programming tracks
 
 #### Programming Challenges
   - [Codewars](https://www.codewars.com/) - Programming Challenges
@@ -81,6 +82,8 @@ A dump of all known gamified learning resources
 ##### Data Science
 - [StrataScratch](https://www.stratascratch.com/) - Data science based programming challenges
 - [DataCamp](https://www.datacamp.com/) - Data Science learning platform
+- [Datawars](https://www.datawars.io) - Practice Data Science with real life projects
+- [DataQuest](https://www.dataquest.io/) - Data Science learning paths
 
 ### Language
 - [Duolingo](https://www.duolingo.com/) - General Language Learning
