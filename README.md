@@ -12,6 +12,7 @@ A dump of all known gamified learning resources
   - [Educative.io](https://www.educative.io/) - Various development courses
   - [CodeCademy](https://www.codecademy.com/) - Learn Programming
   - [CodeCombat](https://codecombat.com/) - Learn to code through play
+  - [CodeCrafters](https://codecrafters.io/) - Advanced Programming challenges
 
 #### Programming Challenges
   - [Codewars](https://www.codewars.com/) - Programming Challenges
