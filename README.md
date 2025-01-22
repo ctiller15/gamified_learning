@@ -44,6 +44,10 @@ A dump of all known gamified learning resources
 
 ##### Regex
 - [SlashEscape](https://www.therobinlord.com/projects/slash-escape) - A slasher themed RegEx learning game
+- [Regex Crossword](https://regexcrossword.com/) - Solve puzzles with RegEx
+- [Regex Game from Reinventingwheel.com](https://www.reinventingwheel.com/regex-post-intro) - Join Agent Brown in keeping the internet from coming down
+- [RegexOne](https://regexone.com/) - interactive RegEx learning game
+- [Regex Golf](https://alf.nu/RegexGolf) - advanced RegEx challenges
 
 ##### Git
 - [Learn Git Branching](https://learngitbranching.js.org/) - Learning git and git branching
