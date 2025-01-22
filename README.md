@@ -14,6 +14,7 @@ A dump of all known gamified learning resources
   - [CodeCombat](https://codecombat.com/) - Learn to code through play
   - [CodeCrafters](https://codecrafters.io/) - Advanced Programming challenges
   - [HyperSkill](https://hyperskill.org/) - Learn to program various languages
+  - [CodeChef](https://www.codechef.com/) - Learn to code from scratch with practice-oriented courses
 
 #### Programming Challenges
   - [Codewars](https://www.codewars.com/) - Programming Challenges
