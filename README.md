@@ -56,6 +56,8 @@ A dump of all known gamified learning resources
 ### Mathematics
 - [Khan Academy](https://www.khanacademy.org/) - Mathematics From K-12 and beyond
 - [Arcademics](https://www.arcademics.com/) - Mathematics games
+- [Brilliant.org](https://brilliant.org/) - Math, Science, and Engineering
+- [Project Euler](https://projecteuler.net/) - Math and programming challenges
 
 ### Science (General)
 
