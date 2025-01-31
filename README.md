@@ -60,6 +60,7 @@ A dump of all known gamified learning resources
 
 ##### Git
 - [Learn Git Branching](https://learngitbranching.js.org/) - Learning git and git branching
+- [Oh My Git](https://ohmygit.org/) - open source game about learning git
 
 ##### Vim
 - [Vim Adventures](https://vim-adventures.com/) - Learn Vim via a text-based adventure
