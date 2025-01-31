@@ -2,6 +2,14 @@
 A dump of all known gamified learning resources
 
 ## Table of Contents
+1. [Programming and Computer Science](#programmingcomputer-science)
+   1. [Courses and Learning Paths](#courses-and-learning-paths)
+   2. [Programming Challenges](#programming-challenges)
+   3. [Specialized Skills](#specialized-skills)
+3. [Language](#language)
+4. [Mathematics](#mathematics)
+5. [Science](#science-general)
+6. [Business](#business)
 
 ### Programming/Computer Science
 #### Courses and Learning Paths
@@ -90,12 +98,14 @@ A dump of all known gamified learning resources
 
 ### Language
 - [Duolingo](https://www.duolingo.com/) - General Language Learning
+- [Beelinguapp](https://beelinguapp.com/) - Learn languages via articles, books, and music
 
 ### Mathematics
 - [Khan Academy](https://www.khanacademy.org/) - Mathematics From K-12 and beyond
 - [Arcademics](https://www.arcademics.com/) - Mathematics games
 - [Brilliant.org](https://brilliant.org/) - Math, Science, and Engineering
 - [Project Euler](https://projecteuler.net/) - Math and programming challenges
+- [Math Academy](https://www.mathacademy.com/) - From arithmetic to multivariable calculus
 
 ### Science (General)
 
