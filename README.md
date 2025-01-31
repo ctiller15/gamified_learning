@@ -24,6 +24,7 @@ A dump of all known gamified learning resources
   - [HyperSkill](https://hyperskill.org/) - Learn to program various languages
   - [CodeChef](https://www.codechef.com/) - Learn to code from scratch with practice-oriented courses
   - [Treehouse](https://teamtreehouse.com/) - Learn to code through various programming tracks
+  - [CodeGym](https://codegym.cc/) - Learn Java
 
 #### Programming Challenges
   - [Codewars](https://www.codewars.com/) - Programming Challenges
@@ -50,6 +51,7 @@ A dump of all known gamified learning resources
 - [SQL Squid Game](https://datalemur.com/sql-game) - Sql game inspired by Netflix's Squid Game
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Use SQL to hunt down a killer
 - [Advent of SQL](https://adventofsql.com/) - Christmas themed SQL challenges
+- [SQL test online](https://sqltest.online/en/) - Sql interactive challenges
 
 ##### Regex
 - [SlashEscape](https://www.therobinlord.com/projects/slash-escape) - A slasher themed RegEx learning game
@@ -61,6 +63,7 @@ A dump of all known gamified learning resources
 ##### Git
 - [Learn Git Branching](https://learngitbranching.js.org/) - Learning git and git branching
 - [Oh My Git](https://ohmygit.org/) - open source game about learning git
+- [Github](https://github.com/Gazler/githug) - interactive game to learn git
 
 ##### Vim
 - [Vim Adventures](https://vim-adventures.com/) - Learn Vim via a text-based adventure
@@ -100,6 +103,9 @@ A dump of all known gamified learning resources
 ### Language
 - [Duolingo](https://www.duolingo.com/) - General Language Learning
 - [Beelinguapp](https://beelinguapp.com/) - Learn languages via articles, books, and music
+- [Memrise](https://www.memrise.com/) - Learn various languages through community courses
+- [Clozemaster](https://www.clozemaster.com/) - Learn Language in context
+- [Drops](https://languagedrops.com/) - learn language drop by drop
 
 ### Mathematics
 - [Khan Academy](https://www.khanacademy.org/) - Mathematics From K-12 and beyond
