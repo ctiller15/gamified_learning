@@ -53,6 +53,7 @@ A dump of all known gamified learning resources
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Use SQL to hunt down a killer
 - [Advent of SQL](https://adventofsql.com/) - Christmas themed SQL challenges
 - [SQL test online](https://sqltest.online/en/) - Sql interactive challenges
+- [SQL Noir](https://www.sqlnoir.com/) - Learn Sql by solving crimes
 
 ##### Regex
 - [SlashEscape](https://www.therobinlord.com/projects/slash-escape) - A slasher themed RegEx learning game
