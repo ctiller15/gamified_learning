@@ -40,6 +40,7 @@ A dump of all known gamified learning resources
   - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) - Learn Ruby to help your warrior climb a tall tower
   - [Robocode](https://robocode.sourceforge.io/) - Develop a robot battle tank to battle against other tanks
   - [HackAttic](https://hackattic.com/) - Hard, no-nonsense programming challenges
+  - [Leetle](https://leetle.app/) - Daily Coding challenges, wordle style
 
 #### Specialized Skills
 
