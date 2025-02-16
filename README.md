@@ -1,5 +1,5 @@
 # Gamified Learning
-A dump of all known gamified learning resources
+A dump of all currently known gamified learning resources. Every resource on here should have at least some elements of gamification involved. (exp, leaderboards, progression, etc) to help motivate and aid in learning.
 
 ## Table of Contents
 1. [Programming and Computer Science](#programmingcomputer-science)
@@ -121,6 +121,7 @@ A dump of all known gamified learning resources
 
 ### Art
 - [Artwod](https://artwod.com/) - Gamified art education - (web)
+- [CgCookie](https://cgcookie.mavenseed.com/) - Blender training - (web)
   
 ### Geography
 - [Seterra](https://www.seterra.com/) - Learn Geography via interactive quizzes and exercises - (web) (ios) (android)
