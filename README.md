@@ -8,8 +8,10 @@ A dump of all known gamified learning resources
    3. [Specialized Skills](#specialized-skills)
 3. [Language](#language)
 4. [Mathematics](#mathematics)
-5. [Science](#science-general)
-6. [Business](#business)
+5. [Art](#art)
+6. [Geography](#geography)
+7. [Business](#business)
+8. [Other Skills](#other-skills)
 
 ### Programming/Computer Science
 #### Courses and Learning Paths
@@ -108,15 +110,23 @@ A dump of all known gamified learning resources
 - [Memrise](https://www.memrise.com/) - Learn various languages through community courses
 - [Clozemaster](https://www.clozemaster.com/) - Learn Language in context
 - [Drops](https://languagedrops.com/) - learn language drop by drop
+- [Lingo Legend](https://www.lingolegend.com/) - adventure language learning game - (ios) (android)
 
 ### Mathematics
 - [Khan Academy](https://www.khanacademy.org/) - Mathematics From K-12 and beyond
 - [Arcademics](https://www.arcademics.com/) - Mathematics games
 - [Brilliant.org](https://brilliant.org/) - Math, Science, and Engineering
 - [Project Euler](https://projecteuler.net/) - Math and programming challenges
-- [Math Academy](https://www.mathacademy.com/) - From arithmetic to multivariable calculus
+- [Math Academy](https://www.mathacademy.com/) - From arithmetic to multivariable calculus - (web)
 
-### Science (General)
+### Art
+- [Artwod](https://artwod.com/) - Gamified art education - (web)
+  
+### Geography
+- [Seterra](https://www.seterra.com/) - Learn Geography via interactive quizzes and exercises - (web) (ios) (android)
 
 ### Business
-- [Virtonomics](https://virtonomics.com/) - Business Simulation
+- [Virtonomics](https://virtonomics.com/) - Business Simulation - (web)
+
+### Other skills
+- [Ratatype](https://www.ratatype.com/) - Learn touch typing - (web)
