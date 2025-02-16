@@ -11,7 +11,7 @@ A dump of all currently known gamified learning resources. Every resource on her
 5. [Art](#art)
 6. [Geography](#geography)
 7. [Business](#business)
-8. [Other Skills](#other-skills)
+8. [Other Skills](#other-skillsuncategorized)
 
 ### Programming/Computer Science
 #### Courses and Learning Paths
@@ -130,6 +130,7 @@ A dump of all currently known gamified learning resources. Every resource on her
 ### Business
 - [Virtonomics](https://virtonomics.com/) - Business Simulation - (web)
 
-### Other skills
+### Other skills/uncategorized
 - [Ratatype](https://www.ratatype.com/) - Learn touch typing - (web)
 - [Betwixt](https://www.betwixt.life/) - A self-discovery game about mental health - (ios) (android)
+- [Kinnu](https://kinnu.xyz/) - A general lifelong learning app - (ios) (android)
