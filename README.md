@@ -111,6 +111,7 @@ A dump of all currently known gamified learning resources. Every resource on her
 - [Clozemaster](https://www.clozemaster.com/) - Learn Language in context
 - [Drops](https://languagedrops.com/) - learn language drop by drop
 - [Lingo Legend](https://www.lingolegend.com/) - adventure language learning game - (ios) (android)
+- [Lirica](https://www.lirica.io/) - learn language with music - (ios) (android)
 
 ### Mathematics
 - [Khan Academy](https://www.khanacademy.org/) - Mathematics From K-12 and beyond
