@@ -130,3 +130,4 @@ A dump of all known gamified learning resources
 
 ### Other skills
 - [Ratatype](https://www.ratatype.com/) - Learn touch typing - (web)
+- [Betwixt](https://www.betwixt.life/) - A self-discovery game about mental health - (ios) (android)
