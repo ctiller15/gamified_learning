@@ -43,7 +43,8 @@ A dump of all currently known gamified learning resources. Every resource on her
   - [Robocode](https://robocode.sourceforge.io/) - Develop a robot battle tank to battle against other tanks
   - [HackAttic](https://hackattic.com/) - Hard, no-nonsense programming challenges
   - [Leetle](https://leetle.app/) - Daily Coding challenges, wordle style
-  - [Rosalind](https://rosalind.info/problems/locations/) - Learn bioinformatics through problem solving
+  - [Rosalind](https://rosalind.info/problems/locations/) - Learn bioinformatics through problem solving - (web)
+  - [Edabit](https://edabit.com/) - learn to code through interactive challenges, gain exp, and unlock achievements - (web)
 
 #### Specialized Skills
 
