@@ -67,9 +67,9 @@ A dump of all currently known gamified learning resources. Every resource on her
 - [Regex Golf](https://alf.nu/RegexGolf) - advanced RegEx challenges
 
 ##### Git
-- [Learn Git Branching](https://learngitbranching.js.org/) - Learning git and git branching
-- [Oh My Git](https://ohmygit.org/) - open source game about learning git
-- [Github](https://github.com/Gazler/githug) - interactive game to learn git
+- [Learn Git Branching](https://learngitbranching.js.org/) - Learning git and git branching - (web)
+- [Oh My Git](https://ohmygit.org/) - open source game about learning git - (web/download)
+- [Githug](https://github.com/Gazler/githug) - interactive game to learn git - (web/download)
 
 ##### Vim
 - [Vim Adventures](https://vim-adventures.com/) - Learn Vim via a text-based adventure
