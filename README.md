@@ -96,6 +96,7 @@ A dump of all currently known gamified learning resources. Every resource on her
 ##### Cybersecurity
 - [TryHackMe](https://tryhackme.com/) - General cybersecurity training
 - [Hacksplaining](https://www.hacksplaining.com/) - Learn about web vulnerabilities
+- [Over the Wire](https://overthewire.org/wargames/) - Learn cybersecurity through wargames
 
 ##### Data Science
 - [StrataScratch](https://www.stratascratch.com/) - Data science based programming challenges
@@ -114,6 +115,7 @@ A dump of all currently known gamified learning resources. Every resource on her
 - [Drops](https://languagedrops.com/) - learn language drop by drop
 - [Lingo Legend](https://www.lingolegend.com/) - adventure language learning game - (ios) (android)
 - [Lirica](https://www.lirica.io/) - learn language with music - (ios) (android)
+- [Kahoot - Learn to Read](https://dragonbox.com/products/poio) - teach yourself to read through gaming (ios) (android)
 
 ### Mathematics
 - [Khan Academy](https://www.khanacademy.org/) - Mathematics From K-12 and beyond
@@ -121,6 +123,12 @@ A dump of all currently known gamified learning resources. Every resource on her
 - [Brilliant.org](https://brilliant.org/) - Math, Science, and Engineering
 - [Project Euler](https://projecteuler.net/) - Math and programming challenges
 - [Math Academy](https://www.mathacademy.com/) - From arithmetic to multivariable calculus - (web)
+- [Dragonbox Numbers](https://dragonbox.com/products/numbers) - Learn what numbers are - (ios) (android)
+- [Dragonbox Big Numbers](https://dragonbox.com/products/big-numbers) - Learn big numbers, long addition, and subtraction - (ios) (android)
+- [Dragonbox algebra 5+](https://dragonbox.com/products/algebra-5) - Learn how to solve basic linear equations - (ios) (android)
+- [Kahoot! Multiplication](https://dragonbox.com/products/multiplication) - Go on an epic journey to become a multiplication superstar! - (ios) (android)
+- [Dragonbox algebra 12+](https://dragonbox.com/products/algebra-12) - Continue with advanced algebra and mathematic topics - (ios) (android)
+- [Dragonbox Elements](https://dragonbox.com/products/elements) - Save Euclid's island while learning shapes through proofs - (ios) (android)
 
 ### Art
 - [Artwod](https://artwod.com/) - Gamified art education - (web)
@@ -136,3 +144,5 @@ A dump of all currently known gamified learning resources. Every resource on her
 - [Ratatype](https://www.ratatype.com/) - Learn touch typing - (web)
 - [Betwixt](https://www.betwixt.life/) - A self-discovery game about mental health - (ios) (android)
 - [Kinnu](https://kinnu.xyz/) - A general lifelong learning app - (ios) (android)
+- [Morse Mania](https://dong.digital/morsemania/) - learn morse code through gaming - (ios) (android)
+- [Learn Chess](https://dragonbox.com/products/learn-chess-with-dragonbox) - an epic chess learning adventure - (ios) (android)
