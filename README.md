@@ -27,6 +27,7 @@ A dump of all currently known gamified learning resources. Every resource on her
   - [CodeChef](https://www.codechef.com/) - Learn to code from scratch with practice-oriented courses
   - [Treehouse](https://teamtreehouse.com/) - Learn to code through various programming tracks
   - [CodeGym](https://codegym.cc/) - Learn Java
+  - [LabEx](https://labex.io/) - Learn Linux, Devops, Cybersecurity, and other skills through hands-on labs - (web)
 
 #### Programming Challenges
   - [Codewars](https://www.codewars.com/) - Programming Challenges
