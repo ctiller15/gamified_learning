@@ -107,7 +107,12 @@ A dump of all currently known gamified learning resources. Every resource on her
 - [DataQuest](https://www.dataquest.io/) - Data Science learning paths
 
 ##### DevOps
-- [Kodekloud](https://kodekloud.com/) - Devops learning paths
+- [Kodekloud](https://kodekloud.com/) - Devops learning paths - (web)
+
+##### Low Level
+- [NandGame](https://nandgame.com/) - build a computer starting from basic components - (web)
+- [Digital Logic Design (The Game)](https://asteriskman7.github.io/dldtg/) - design systems using logic gates - (web)
+- [SIC-1](https://jaredkrinke.itch.io/sic-1) - A single-instruction programming game - (web)
 
 ### Language
 - [Duolingo](https://www.duolingo.com/) - General Language Learning
@@ -135,6 +140,8 @@ A dump of all currently known gamified learning resources. Every resource on her
 ### Art
 - [Artwod](https://artwod.com/) - Gamified art education - (web)
 - [CgCookie](https://cgcookie.mavenseed.com/) - Blender training - (web)
+- [ArtWorkout](https://artworkout.app/) - Learn to draw in a game-like manner and evaluate your performance - (ios) (android)
+- [TryDraw](https://www.trydraw.com/) - lessons to help improve your drawing using step by step interactive tutorials - (web)
   
 ### Geography
 - [Seterra](https://www.seterra.com/) - Learn Geography via interactive quizzes and exercises - (web) (ios) (android)
