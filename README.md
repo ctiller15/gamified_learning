@@ -114,6 +114,9 @@ A dump of all currently known gamified learning resources. Every resource on her
 - [Digital Logic Design (The Game)](https://asteriskman7.github.io/dldtg/) - design systems using logic gates - (web)
 - [SIC-1](https://jaredkrinke.itch.io/sic-1) - A single-instruction programming game - (web)
 
+##### Command line
+- [CommandChallenge](https://cmdchallenge.com/) - quick single-line command line challenges
+
 ### Language
 - [Duolingo](https://www.duolingo.com/) - General Language Learning
 - [Beelinguapp](https://beelinguapp.com/) - Learn languages via articles, books, and music
