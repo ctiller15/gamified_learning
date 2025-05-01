@@ -117,6 +117,9 @@ A dump of all currently known gamified learning resources. Every resource on her
 ##### Command line
 - [CommandChallenge](https://cmdchallenge.com/) - quick single-line command line challenges
 
+##### Graphics
+- [Shader Learning](https://shader-learning.com/) - learn gpu programming
+
 ### Language
 - [Duolingo](https://www.duolingo.com/) - General Language Learning
 - [Beelinguapp](https://beelinguapp.com/) - Learn languages via articles, books, and music
