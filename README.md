@@ -15,6 +15,7 @@ A dump of all currently known gamified learning resources. Every resource on her
 
 ### Programming/Computer Science
 #### Courses and Learning Paths
+  - [Learn to Code from Zero with Godot](https://www.gdquest.com/learn-to-code-from-zero/) - Introductory programming game from zero
   - [FreeCodeCamp](https://www.freecodecamp.org/) - Online Programming Curriculum w/ Various certifications
   - [Boot.dev](https://www.boot.dev/) - Backend Programming Learning Path
   - [CodeSignal](https://learn.codesignal.com/course-paths/) - Various paths for different programming skills
